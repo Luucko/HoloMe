@@ -1,5 +1,4 @@
 ## Course: Analysis and Development Project  
-**Grade:** 14/20  
 **Tools Used:** Miro, Figma, Notion, Draw.io, UML, BPMN, MoSCoW, C4 Model, Class Diagrams, Sequence Diagrams  
 **Project Website:** [HoloMe Website](https://lucasviaene.wixsite.com/holome)
 
